@@ -5,7 +5,7 @@ Welcome to my personal resume website hosted on **GitHub Pages**.
 
 ## 🔗 Online Version
 
-👉 [Click here to view](https://jia-mengdi.github.io)
+👉 [Click here to view](https://MengdiJia.github.io)
 
 ## 📄 Features
 
