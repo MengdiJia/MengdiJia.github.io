@@ -21,5 +21,5 @@ Welcome to my personal resume website hosted on **GitHub Pages**.
 
 ## 📬 Contact
 
-Email: your_email@example.com  
-GitHub: [JIA-Mengdi](https://github.com/JIA-Mengdi)
+Email: j.m.d.chn@gmail.com  
+GitHub: [Mengdi Jia](https://github.com/JIA-Mengdi)
