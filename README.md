@@ -23,3 +23,7 @@ Welcome to my personal resume website hosted on **GitHub Pages**.
 
 Email: j.m.d.chn@gmail.com  
 GitHub: [Mengdi Jia](https://github.com/JIA-Mengdi)
+
+
+
+This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
