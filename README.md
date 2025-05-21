@@ -26,4 +26,7 @@ GitHub: [Mengdi Jia](https://github.com/JIA-Mengdi)
 
 
 
-This is the source code to Jon Barron's public academic website: https://jonbarron.info/. Feel free to clone this code for your own personal use.
+---
+
+This website is based on [Jon Barron's homepage](https://jonbarron.info/).  
+Source: [jonbarron.github.io](https://github.com/jonbarron/jonbarron.github.io)
